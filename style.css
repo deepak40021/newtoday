@@ -43,7 +43,8 @@ ul {
 
 nav {
     height: 100px;
-    background-color: #f3faff;
+    background-color: #0e004b;
+    color: #fff;
     box-shadow: 0 0 4px #22313e;
     position: fixed;
     top: 0;
